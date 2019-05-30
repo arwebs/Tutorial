@@ -311,7 +311,7 @@
                 {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 1154,
+                    "x": 1152,
                     "y": 290,
                     "uniqueID": 541491,
                     "ioValues": [
